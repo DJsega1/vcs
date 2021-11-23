@@ -1,3 +1,3 @@
 print("Hello!")
 print("Bye!")
-print("иии")
+print("asdsad")
